@@ -171,12 +171,12 @@
 
         <ul class="list-inline list-unstyled text-center">
             <li>
-                <a href="https://github.com/Seth-Rothschild/TeaHouse" target="_blank"><i class="fa fa-github"></i></a>
+                <a href="https://github.com/" target="_blank"><i class="fa fa-github"></i></a>
             </li>
         </ul>
 
         <p class="text-center">
-            <small>&copy; Copyright 2018 Seth Rothschild</small>
+            <small>&copy;</small>
             <br><br>
         </p>
     </aside>

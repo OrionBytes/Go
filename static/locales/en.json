@@ -223,14 +223,14 @@
     "contribute": {
       "header": "What is AGPLv3?",
       "text": {
-        "p1": "Tea House is fully open source under the GNU Affero General Public License v3.0. The license requires, among other things, that derived works also share their source code.",
-        "p2": "You are free to contribute code or fork your own version of Tea House. If you are interested, the issues list and codebase can be found on <a href=\"http://github.com/Seth-Rothschild/TeaHouse\" target=\"_blank\">Github.</a>"
+        "p1": "Go is fully open source under the GNU Affero General Public License v3.0. The license requires, among other things, that derived works also share their source code.",
+        "p2": ""
       }
     },
     "bug": {
       "header": "Something's broken",
       "text": {
-        "p1": "This service is provided with no warranty. The hope is that bugfixes and feature implementations will happen eventually. If you have such a request, please post on the <a href=\"http://github.com/Seth-Rothschild/TeaHouse/issues\" target=\"_blank\">issues page</a> on github.",
+        "p1": "This service is provided with no warranty.",
         "p2": ""
       }
     },

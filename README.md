@@ -1,8 +1,8 @@
 ## About
-[Tea House](https://teahouse.sethjrothschild.com) is an [open source](https://github.com/Seth-Rothschild/TeaHouse/blob/master/LICENSE) server for the game of Go. It is a fork of [weiqi.gs](https://gitlab.com/mibitzi/weiqi.gs) by Michael Bitzi. While that project resulted in a server that was open to the public, this one does not. Nevertheless, the source code is and will be available here on github.
+Go is an [open source](https://github.com/OrionBytes/TeaHouse/blob/master/LICENSE)
 
 ## How do I make an account?
-Account creation is currently disabled for the public site. If you are setting up your own version of this code, you can create accounts using the provided [administrator tools](https://github.com/Seth-Rothschild/TeaHouse/blob/master/admintools.py). 
+You can create accounts using the provided administrator tools.py
 
 
 ## Build Instructions 

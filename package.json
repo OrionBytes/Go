@@ -1,19 +1,19 @@
 {
-  "name": "TeaHouse",
+  "name": "Go",
   "version": "0.0.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seth-Rothschild/TeaHouse.git"
+    "url": "git+https://github.com/OrionBytes/TeaHouse"
   },
   "author": "",
   "license": "AGPL",
   "bugs": {
-    "url": "https://github.com/Seth-Rothschild/TeaHouse/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/Seth-Rothschild/TeaHouse#readme",
+  "homepage": "https://github.com/",
   "devDependencies": {
     "babel-core": "^6.7.2",
     "babel-loader": "^6.2.4",
