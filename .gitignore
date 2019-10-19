@@ -4,8 +4,6 @@ __pycache__
 /.vagrant
 /venv
 /node_modules
-/static/dist
-/weiqi/static/dist
 settings_local.py
 .cache
 .coverage
