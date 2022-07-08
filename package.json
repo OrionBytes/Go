@@ -39,7 +39,7 @@
     "karma-webpack": "^1.7.0",
     "linkifyjs": "^2.0.3",
     "mocha": "^2.5.3",
-    "moment": "^2.12.0",
+    "moment": "^2.29.4",
     "phantomjs-prebuilt": "^2.1.7",
     "select2": "^4.0.2",
     "select2-bootstrap-theme": "0.1.0-beta.4",
